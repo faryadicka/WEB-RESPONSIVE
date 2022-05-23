@@ -452,14 +452,10 @@
   background-image: linear-gradient(#F8F8F8, white);
 }
 
-.card-img-top {
-  width: 10.5rem;
-}
-
 .btn-select {
   color: #6A4029;
   border-radius: 20px;
-  padding: 5px 50px;
+  width: 100%;
 }
 
 .title-map {
@@ -495,9 +491,13 @@
   justify-content: space-between;
 }
 
+.card-img-top {
+  width: 50%;
+}
+
 .card-testi {
+  width: 100%;
   border-radius: 15px;
-  height: 200px;
 }
 
 .card-text {
