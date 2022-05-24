@@ -33,9 +33,9 @@
 
 <br>
 
-## RELATED PROJECT 
+## RELATED PROJECT
 
-* [`Backend-DizzyCoffeeShop`](https://github.com/faryadicka/DIZZY-COFFEE-BACKEND) 
+* [`Backend-DizzyCoffeeShop`](https://github.com/faryadicka/DIZZY-COFFEE-BACKEND)
 
 ## MY CONTACT
 
