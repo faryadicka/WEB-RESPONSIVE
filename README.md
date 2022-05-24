@@ -10,7 +10,6 @@
 ![BOOTSTRAP](https://img.shields.io/badge/V5.2-BOOTSTRAP-magenta)
 
 <br>
-<br>
 
 ## How to run the project?
 1. Clone the repository
