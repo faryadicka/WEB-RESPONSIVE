@@ -22,7 +22,7 @@
 
 ## Preview Project :
 
-<div style='display:flex;row-gap:10px;column-gap:15px;align-items:center; flex-wrap:wrap'>
+<div style='display:flex;row-gap:10px;column-gap:15px;align-items:center;'>
   <img src="assets/screenshot/register-web.png" width="200">
   <img src="assets/screenshot/login-web.png" width="200">
   <img src="assets/screenshot/profile-web.png" width="200">
