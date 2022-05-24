@@ -23,11 +23,11 @@
 ## Preview Project :
 
 <div style='display:flex;row-gap:10px;column-gap:15px;align-items:center; flex-wrap:wrap'>
-  <img src="assets/screenshot/signup.jpg" width="200">
-  <img src="assets/screenshot/login.jpg" width="200">
-  <img src="assets/screenshot/profile.jpg" width="200">
-  <img src="assets/screenshot/product.jpg" width="200">
-  <img src="assets/screenshot/home.jpg" width="200">
+  <img src="assets/screenshot/register-web.png" width="200">
+  <img src="assets/screenshot/login-web.png" width="200">
+  <img src="assets/screenshot/profile-web.png" width="200">
+  <img src="assets/screenshot/product-web.png" width="200">
+  <img src="assets/screenshot/home-web.png" width="200">
 </div>
 
 <br>
